@@ -1,7 +1,7 @@
 {
-"spider":"https://github.com/heroaku/TVboxo/raw/main/Jar/1008.jar",
+"spider":"https://raw.iqiq.io/dick318/TVboxo/main/Jar/1008.jar",
 "sites": [ 
-{"key": "MV","name": "🌈歌曲MV","type": 3,"api": "csp_Bili","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://github.com/heroaku/TVboxo/raw/main/Bili/歌曲MV.json"}],
+{"key": "MV","name": "🌈歌曲MV","type": 3,"api": "csp_Bili","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://raw.iqiq.io/dick318/TVboxo/main/Bili/歌曲MV.json"}],
 
 "parses":[
 {"name":"解析聚合","type":3,"url":"Demo"},
