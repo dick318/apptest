@@ -1,6 +1,6 @@
-import 'https://raw.iqiq.io/2hacc/TVBox/main/drpy/lib/uri.min.js'
-import cheerio from 'https://raw.iqiq.io/2hacc/TVBox/main/drpy/lib/cheerio.min.js';
-import 'https://raw.iqiq.io/2hacc/TVBox/main/drpy/lib/crypto-js.js'
+import 'https://raw.fastgit.org/2hacc/TVBox/main/drpy/lib/uri.min.js'
+import cheerio from 'https://raw.fastgit.org/2hacc/TVBox/main/drpy/lib/cheerio.min.js';
+import 'https://raw.fastgit.org/2hacc/TVBox/main/drpy/lib/crypto-js.js'
 
 var charStr = 'abacdefghjklmnopqrstuvwxyzABCDEFGHJKLMNOPQRSTUVWXYZ0123456789';
 export function randIndex(min, max, i) {

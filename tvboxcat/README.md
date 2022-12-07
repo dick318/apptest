@@ -3,7 +3,7 @@
 ## github加速
 国内访问地址一
 ```
-https://raw.iqiq.io/2hacc/TVBox/main/tvbox
+https://raw.fastgit.org/2hacc/TVBox/main/tvbox
 ```
 国内访问地址二
 ```
